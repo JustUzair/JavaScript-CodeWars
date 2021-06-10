@@ -12,10 +12,6 @@ function pigIt(str) {
         : word;
     })
     .join(" ");
-  //   for (let i = 0; i < temp.length; i++) {
-  //     // temp[i] = temp[i].slice(1) + temp[i].charAt(0) + "ay ";
-  //     temp[i] = ``;
-  //   }
-  //   return temp;
+
 }
 console.log(pigIt("Hello World"));
